@@ -1,6 +1,6 @@
 # Events API
 
-Sample REST api implementation for event scheduling, implemented to be familiar with Golang REST api concepts
+Simple REST api implementation for event scheduling, implemented to be familiar with Golang REST api concepts
 
 Key concepts:
 - REST api implementation using Go
